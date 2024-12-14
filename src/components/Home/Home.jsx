@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Gameplay from "../Gameplay/Gameplay";
-import Leaderboard from "../LeaderBoard/Leaderboard";
+import Leaderboard from "../Leaderboard/Leaderboard";
 import "./Home.css";
 
 function generateUniqueFourDigitNumber() {
