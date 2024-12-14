@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Gameplay from "../GamePlay/GamePlay";
+import Gameplay from "../Gameplay/Gameplay";
 import Leaderboard from "../LeaderBoard/Leaderboard";
 import "./Home.css";
 
