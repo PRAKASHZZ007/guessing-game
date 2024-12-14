@@ -1,0 +1,38 @@
+.leaderboard-container {
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  .leaderboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .leaderboard-table th {
+    background-color: #4CAF50; /* Header color */
+    color: white;
+    padding: 10px;
+  }
+  
+  .leaderboard-table td {
+    background-color: #f2f2f2; /* Row color */
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  .leaderboard-table tr:nth-child(even) td {
+    background-color: #e9e9e9; /* Alternating row color */
+  }
+  
+  .leaderboard-table tr:hover {
+    background-color: #ddd; /* Hover effect */
+  }
+  
+ .data-empty{
+    margin-top: 30px;
+ }

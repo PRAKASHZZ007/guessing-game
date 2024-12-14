@@ -1,0 +1,63 @@
+.gameplay-container {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .player-name {
+    color: #4caf50;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .timer {
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .guess-input {
+    padding: 10px;
+    font-size: 1.2rem;
+    width: 100%;
+    margin: 10px 0;
+    border: 2px solid #4caf50;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #45a049;
+  }
+  
+  .guesses-container {
+    margin-top: 20px;
+  }
+  
+  .guesses-header {
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .guesses-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .guess-item {
+    margin: 5px 0;
+    font-size: 1.1rem;
+  }
+  
